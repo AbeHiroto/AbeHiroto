@@ -29,7 +29,7 @@ Hi. I started my journey with programming in January 2024 w/ AI, and since then,
 
 ## 🌱 Currently Learning
 
-- Supabase integration for backend of my homepage
+- Supabase integration for the backend of my homepage
 - Joining OSS!!!!!
 
 ## 📫
