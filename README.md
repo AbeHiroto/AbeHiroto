@@ -1,8 +1,8 @@
-## 👋
+## 👋Hi
 
-Hi. I started my journey with programming in January 2024 w/ AI, and since then, I've been continuously learning and developing my skills. My recent project is an online Tic-Tac-Toe game app called **"Obsessed with Watermelon"**.
+My name is Hiroto Abe. I started my journey with programming in January 2024 w/ AI, and since then, I've been continuously learning and developing my skills. My recent project is an online Tic-Tac-Toe game app that is called... 👇
 
-## 🍉
+## 🍉"Obsessed with Watermelon"
 ![Obsessed with Watermelon](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof01.jpg)
 - **[Check it out from here🍉!](https://abehiroto.com/wmapp)**
 - **Description**: An online two-player variant of Tic-Tac-Toe with a mischievous referee system.
@@ -29,13 +29,13 @@ Hi. I started my journey with programming in January 2024 w/ AI, and since then,
 
 ## 🌱 Currently Learning
 
-- Supabase integration for the backend of my homepage
-- Joining OSS!!!!!
+- Supabase integration for the back end of my homepage
+- Joining OSS
 
-## 📫
+## 📫 Inquiry
 I prefer homepage rather than corporative social media.
 
-- 🏠: [Homepage](https://abehiroto.com)
+- 🏠: [abehiroto.com](https://abehiroto.com)
 
 Thanks.
 
