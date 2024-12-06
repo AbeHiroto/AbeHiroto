@@ -41,9 +41,9 @@ My name is Hiroto Abe. I started my journey with programming in January 2024 w/ 
 - Joining OSS
 
 ## 📫 Inquiry
-I prefer homepage rather than corporative social media.
+Please contact me via e-mail form in my homepage.
 
 - 🏠: [abehiroto.com](https://abehiroto.com)
 
-Thanks.
+Thank you.
 
