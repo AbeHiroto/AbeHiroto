@@ -1,4 +1,4 @@
-## 👋Hi
+## 👋Hello
 
 My name is Hiroto Abe. I started my journey with programming in January 2024 w/ AI, and since then, I've been continuously learning and developing my skills. My recent project is an online Tic-Tac-Toe app that can be played with your friend easily w/o registration that is called... 👇
 
@@ -27,6 +27,13 @@ My name is Hiroto Abe. I started my journey with programming in January 2024 w/ 
 - **Tools**: Git, GitHub, VSCode
 - **Databases**: PostgreSQL
 - **OS**: Linux, Windows
+
+## 🗣️ Verbal Languages
+
+- **Japanese**: Mother tongue
+- **English**: TOEIC 875 points (29/1/2023)
+- **Russian**: Started learning very hard
+  [toeic](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof04.jpg)
 
 ## 🌱 Currently Learning
 
