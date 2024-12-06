@@ -31,9 +31,9 @@ My name is Hiroto Abe. I started my journey with programming in January 2024 w/ 
 ## 🗣️ Verbal Languages
 
 - **Japanese**: Mother tongue
-- **English**: TOEIC 875 points (29/1/2023)
-- **Russian**: Started learning very hard
-  [toeic](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof04.jpg)
+- **English**: TOEIC LR 875 points (29/1/2023)
+- **Russian**: Started learning very hard since 2024
+  ![toeic](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof04.jpg)
 
 ## 🌱 Currently Learning
 
