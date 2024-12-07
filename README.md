@@ -7,7 +7,7 @@ My name is Hiroto Abe. I started my journey with programming in January 2024 w/ 
 - **[Check it out from here🍉!](https://abehiroto.com/wmapp)**
 - **Description**: An online two-player variant of Tic-Tac-Toe with a mischievous referee system.
 - **Features**
-  - **Registration free!** Just share url with your friend to play.
+  - **Registration free!** Just share a invitation url with your friend to play.
   - Unique referee system that alters gameplay unless he's bribed.
   - Players can challenge each other's bribes.
   - In-game chat feature for player interaction.
