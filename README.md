@@ -5,7 +5,8 @@ My name is Hiroto Abe. I started my journey with programming in January 2024 w/ 
 ## 🍉"Obsessed with Watermelon"
 ![Obsessed with Watermelon](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof01.jpg)
 - **[Check it out from here🍉!](https://abehiroto.com/wmapp)**
-- **Description**: An online two-player variant of Tic-Tac-Toe with a mischievous referee system.
+- **Description**: An online two-player variant of Tic-Tac-Toe with a mischievous referee system
+- Built with great help of ChatGPT
 - **Features**
   - **Registration free!** Just share a invitation url with your friend to play.
   - Unique referee system that alters gameplay unless he's bribed.
@@ -20,10 +21,19 @@ My name is Hiroto Abe. I started my journey with programming in January 2024 w/ 
   <img src="https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof03.jpg" alt="Obsessed with Watermelon 2" height="600"/>
 </div>
 
+## 🔍Searching Extension for Chromium Based Web Browser
+![Word Search Browser Extension](https://github.com/AbeHiroto/AbeHiroto/blob/main/20241224_rus_ex.gif)
+- A simple extension for web browser that retrieves information about the selected text from an external website
+- Extracts data from external websites using the Reqwest and Scraper libraries
+- My first 🦀Rust project built with great help of Llama3.3:70B
+- This is for personal use, so only repository of the server is public
+- It's required to edit "fn get_data" according to your target website in order to actually run on your environment
+- **Repository**: **[rj-extension](https://github.com/AbeHiroto/rj-ex-backend)**
+
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Go, Dart, JavaScript, HTML, CSS
-- **Frameworks**: Flutter, Gin
+- **Languages**: Go, Dart, Rust, JavaScript, HTML, CSS
+- **Frameworks**: Flutter, React,
 - **Tools**: Git, GitHub, VSCode
 - **Databases**: PostgreSQL
 - **OS**: Linux, Windows
