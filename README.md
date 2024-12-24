@@ -1,6 +1,6 @@
 ## 👋Hello
 
-My name is Hiroto Abe. I started my journey with programming in January 2024 w/ AI, and since then, I've been continuously learning and developing my skills. My recent project is an online Tic-Tac-Toe app that can be played with your friend easily w/o registration that is called... 👇
+My name is Hiroto Abe. I started my journey with programming in January 2024 w/ AI, and since then, I've been continuously learning and developing my skills. My first project is an online Tic-Tac-Toe app that can be played with your friend w/o registration that is called... 👇
 
 ## 🍉"Obsessed with Watermelon"
 ![Obsessed with Watermelon](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof01.jpg)
