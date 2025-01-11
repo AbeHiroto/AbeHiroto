@@ -34,7 +34,7 @@ My name is Hiroto Abe. I started my journey with programming in January 2024 w/ 
 
 - **Languages**: Go, Dart, Rust, JavaScript, HTML, CSS
 - **Frameworks**: Flutter, React,
-- **Tools**: Git, GitHub, VSCode
+- **Tools**: Git, GitHub, Nginx, VSCode
 - **Databases**: PostgreSQL, Redis
 - **OS**: Linux, Windows
 
