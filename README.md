@@ -12,7 +12,7 @@ My name is Hiroto Abe. I started my journey with programming in January 2024 w/ 
   - Unique referee system that alters gameplay unless he's bribed.
   - Players can challenge each other's bribes.
   - In-game chat feature for player interaction.
-- **Technologies**: Go, Flutter
+- **Technologies**: Go, Flutter, PostgreSQL, Redis, Authentication with JWT
 - **Repositories**: **[Flutter Web App](https://github.com/AbeHiroto/watermelon-app)**, **[Backend Go Server](https://github.com/AbeHiroto/watermelon-server)**
 - **Overview**: **["(YouTube) I built this game w/o any experiences of coding using AI"](https://www.youtube.com/watch?v=NrmGaaONEmw)**
  
