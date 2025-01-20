@@ -1,16 +1,13 @@
-## 👋Hello
-
-My name is Hiroto Abe. I started my journey with programming in January 2024 w/ AI, and since then, I've been continuously learning and developing my skills. My first project is an online Tic-Tac-Toe app that can be played with your friend w/o registration that is called... 👇
-
-## 🍉"Obsessed with Watermelon"
+## Personal Project:"Obsessed with Watermelon"
 ![Obsessed with Watermelon](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof01.jpg)
-- **[Check it out from here🍉!](https://abehiroto.com/wmapp)**
-- **Description**: An online two-player variant of Tic-Tac-Toe with a mischievous referee system
-- Built with great help of ChatGPT
+- **[Check it out from here🍉](https://abehiroto.com/wmapp)**
+- **Description**
+  - An online two-player variant of Tic-Tac-Toe with a mischievous referee system 
+  - You need to bribe or denounce the corrupt referee to win
+  - My first programming project developped in 2024 with great help of ChatGPT
+  - **I started this project w/o any knowledge about Go nor Flutter, nor other technologies used in this app**
 - **Features**
-  - **Registration free!** Just share a invitation url with your friend to play.
-  - Unique referee system that alters gameplay unless he's bribed.
-  - Players can challenge each other's bribes.
+  - **Registration free!** Just share a invitation URL with your friend to play.
   - In-game chat feature for player interaction.
 - **Technologies**: Go, Flutter, PostgreSQL, Redis, Authentication with JWT
 - **Repositories**: **[Flutter Web App](https://github.com/AbeHiroto/watermelon-app)**, **[Backend Go Server](https://github.com/AbeHiroto/watermelon-server)**
