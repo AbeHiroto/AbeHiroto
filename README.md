@@ -14,12 +14,12 @@
 - **Overview**: **["(YouTube) I built this game w/o any experiences of coding using AI"](https://www.youtube.com/watch?v=NrmGaaONEmw)**
  
 <div align="left">
-  <img src="https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof02.jpg" alt="Obsessed with Watermelon 1" height="600"/>
-  <img src="https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof03.jpg" alt="Obsessed with Watermelon 2" height="600"/>
+  <img src="https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof06.jpg" alt="Obsessed with Watermelon 1" height="400"/>
+  <img src="https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof07.jpg" alt="Obsessed with Watermelon 2" height="400"/>
 </div>
 
 ## 🔍Searching Extension for Chromium Based Web Browser
-![Word Search Browser Extension](https://github.com/AbeHiroto/AbeHiroto/blob/main/20241224_rus_ex.gif)
+![Word Search Browser Extension](https://github.com/AbeHiroto/AbeHiroto/blob/main/20241224_rus_ex_480.gif)
 - A simple extension for web browsers that retrieves information about the selected text from an external website
 - Extracts data from external websites using the Reqwest and Scraper libraries
 - My first 🦀Rust project built with the great help of Llama3.3:70B
@@ -40,7 +40,8 @@
 - **Japanese**: Mother tongue
 - **English**: TOEIC LR 875 points (29/1/2023)
 - **Russian**: Started learning very hard since 2024
-  ![toeic](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof04.jpg)
+
+![toeic](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof08.jpg)
 
 ## 🌱 Currently Learning
 
