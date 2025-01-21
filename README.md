@@ -2,7 +2,7 @@
 ![Obsessed with Watermelon](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof01.jpg)
 - **[Check it out from here🍉](https://abehiroto.com/wmapp)**
 - **Description**
-  - An online two-player variant of Tic-Tac-Toe with a mischievous referee system 
+  - An online two-player variant of Tic-Tac-Toe
   - You need to bribe or denounce the corrupt referee to win
   - My first programming project developped in 2024 with great help of ChatGPT
   - **I started this project w/o any knowledge about Go nor Flutter, nor other technologies used in this app**
