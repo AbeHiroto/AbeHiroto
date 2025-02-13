@@ -1,4 +1,4 @@
-## Personal Project:"Obsessed with Watermelon"
+## Original Project:"Obsessed with Watermelon"
 [![Obsessed with Watermelon](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof05.jpg)](https://abehiroto.com/wmapp)
 - **[Check it out from here🍉](https://abehiroto.com/wmapp)**
 - **Description**
