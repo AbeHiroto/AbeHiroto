@@ -5,3 +5,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbeHiroto&theme=oldie&column=7&rank=S,AAA,AA,A,B
 )](https://github.com/ryo-ma/github-profile-trophy)
+---
+## Original Game App: "Obsessed with Watermelon"
+[![Obsessed with Watermelon](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof08.jpg)](https://abehiroto.com/wmapp)
