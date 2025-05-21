@@ -1,5 +1,7 @@
 ## Original Game App: "Obsessed with Watermelon"
-[![Obsessed with Watermelon](https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof08.jpg)](https://abehiroto.com/wmapp)
+<a href="https://abehiroto.com/wmapp">
+  <img src="https://github.com/AbeHiroto/AbeHiroto/blob/main/gh_prof08.jpg" width="100%" />
+</a>
 ---
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeHiroto&layout=compact&count_private=true&show_icons=true&theme=dark" />
