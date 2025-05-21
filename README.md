@@ -6,7 +6,7 @@
 ## Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeHiroto&layout=compact&count_private=true&show_icons=true&theme=dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=AbeHiroto&count_private=true&show_icons=true&icon_color=ffffff&theme=dark&hide=issues,contribs&rank_icon=percentile" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=AbeHiroto&count_private=true&show_icons=true&icon_color=ffffff&theme=dark&hide=issues,contribs&rank_icon=github" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbeHiroto&theme=oldie&column=7&rank=S,AAA,AA,A,B
